@@ -1,5 +1,7 @@
 # Awesome Distributed Systems
-Feel free to add your links
+A curated list of awesome distributed systems papers, libraries, software, middleware, books, etc.
+Feel free to add your links!
+
 
 ### Consensus protocols:
  * Paxos: https://en.wikipedia.org/wiki/Paxos_%28computer_science%29
@@ -46,16 +48,10 @@ Operational transform: https://en.wikipedia.org/wiki/Operational_transformation
  * https://www.ibm.com/developerworks/library/l-ceph/index.html
 
 
-
-## TODO: reimplement
- * Coherence: Fully distributed Key/Value Store. Go, gossip protocol:
-https://github.com/SimonRichardson/coherence
-
----
 ## Classes: 
 * Cool: http://css.csail.mit.edu/6.824/2014/schedule.html
 * Appunti: https://github.com/aphyr/distsys-class
- * EDX: https://courses.edx.org/courses/course-v1:KTHx+ID2203.1x+3T_2017/course/
+ * edX: https://courses.edx.org/courses/course-v1:KTHx+ID2203.1x+3T_2017/course/
  * https://learning-modules.mit.edu/class/index.html?uuid=/course/6/fa15/6.852#info by Lynch
 	 * Plus: readings: http://courses.csail.mit.edu/6.852/15/reading.html 
 	 * https://roxanageambasu.github.io/04-teaching/
@@ -68,23 +64,19 @@ https://github.com/checkcheckzz/system-design-interview
 https://github.com/donnemartin/interactive-coding-challenges
 
 
-
-
 ## Links & articles:
-awesome-distributed-systems https://github.com/theanalyst/awesome-distributed-systems
-Awesome scalability: https://github.com/binhnguyennus/awesome-scalability
-https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/
-http://the-paper-trail.org/blog/distributed-systems-theory-for-the-distributed-systems-engineer/
-http://dist-prog-book.com/chapter/
-Jeff Dean's famous talk: https://static.googleusercontent.com/media/research.google.com/it//people/jeff/WSDM09-keynote.pdf
-Testing distributed systems: https://asatarin.github.io/testing-distributed-systems/
-Self-contained systems (alternative to ms): http://scs-architecture.org/
-please-stop-calling-databases-cp-or-ap: https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html
-https://read.acloud.guru/the-quest-for-availability-771fa8a94a7c
-https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed
-https://www.allthingsdistributed.com/
+ * https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/
+ * http://the-paper-trail.org/blog/distributed-systems-theory-for-the-distributed-systems-engineer/
+ * http://dist-prog-book.com/chapter/
+ * Jeff Dean's famous talk: https://static.googleusercontent.com/media/research.google.com/it//people/jeff/WSDM09-keynote.pdf
+ * Testing distributed systems: https://asatarin.github.io/testing-distributed-systems/
+ * Self-contained systems (alternative to microservices): http://scs-architecture.org/
+ * Pease stop calling databases CP or AP: https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html
+ * https://read.acloud.guru/the-quest-for-availability-771fa8a94a7c
+ * https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed
 
-
+## Blogs:
+ * https://www.allthingsdistributed.com/
 
 ## Videos:
 https://www.youtube.com/watch?v=t3Vo37V9oU8
