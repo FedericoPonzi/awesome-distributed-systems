@@ -59,9 +59,9 @@ Operational transform: https://en.wikipedia.org/wiki/Operational_transformation
 ## Books
 
 ## Interviews
-https://github.com/donnemartin/system-design-primer
-https://github.com/checkcheckzz/system-design-interview
-https://github.com/donnemartin/interactive-coding-challenges
+ * https://github.com/donnemartin/system-design-primer
+ * https://github.com/checkcheckzz/system-design-interview
+ * https://github.com/donnemartin/interactive-coding-challenges
 
 
 ## Links & articles:
@@ -79,6 +79,6 @@ https://github.com/donnemartin/interactive-coding-challenges
  * https://www.allthingsdistributed.com/
 
 ## Videos:
-https://www.youtube.com/watch?v=t3Vo37V9oU8
-https://www.youtube.com/watch?v=hnpzNAPiC0E
+ * https://www.youtube.com/watch?v=t3Vo37V9oU8
+ * https://www.youtube.com/watch?v=hnpzNAPiC0E
 
