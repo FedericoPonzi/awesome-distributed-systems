@@ -57,6 +57,8 @@ Table of Contents:
 - [GlusterFS](http://www.gluster.org/)
 - [Apache Hadoop HDFS](https://hortonworks.com/apache/hdfs/)
 - [Ceph: A Linux petabyte-scale distributed file system](https://www.ibm.com/developerworks/library/l-ceph/index.html)
+- [InterPlanetary File System (IPFS)](https://ipfs.io/)
+
 
 ## Classes: 
 - [MIT CSAIL schedule](http://css.csail.mit.edu/6.824/2014/schedule.html)
