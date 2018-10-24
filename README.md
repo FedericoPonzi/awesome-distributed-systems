@@ -70,7 +70,8 @@ Feel free to add your links!
   - [Geambasu's Teaching](https://roxanageambasu.github.io/04-teaching/)
 
 ## Books
-
+ - [Distributed Systems](https://books.distributed-systems.net/)(2017): [Free]  Maarten van Steen, Andrew Tanenbaum. 
+ 
 ## Interviews
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [system-design-interview](https://github.com/checkcheckzz/system-design-interview)
