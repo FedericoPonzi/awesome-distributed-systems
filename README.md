@@ -15,6 +15,7 @@ Feel free to add your links!
  * [Links & articles](#links-and-articles)  
  * [Blogs](#blogs)  
  * [Videos](#videos)  
+----
 
 ### Consensus protocols:
 - [Paxos](https://en.wikipedia.org/wiki/Paxos_%28computer_science%29):
