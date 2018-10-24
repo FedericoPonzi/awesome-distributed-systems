@@ -78,7 +78,7 @@ Feel free to add your links!
 - [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
 
 ## Links and articles:
-- [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
+- [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)(2013)
 - [Distributed systems theory for the distributed systems engineer](http://the-paper-trail.org/blog/distributed-systems-theory-for-the-distributed-systems-engineer/)
 - [Programming Models for Distributed Computing](http://dist-prog-book.com/chapter/)
 - [Jeff Dean's famous talk](https://static.googleusercontent.com/media/research.google.com/it//people/jeff/WSDM09-keynote.pdf)
