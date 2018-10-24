@@ -44,6 +44,7 @@ Operational transform: https://en.wikipedia.org/wiki/Operational_transformation
 
 ### Distributed filesystems
  * GlusterFS: http://www.gluster.org/
+ * IPFS: https://ipfs.io/
  * HDFS: 
  * https://www.ibm.com/developerworks/library/l-ceph/index.html
 
