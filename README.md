@@ -47,7 +47,7 @@ Table of Contents:
 - [MongoDB](https://www.mongodb.com)
 
 ### Conflict-free replicated data type
-- [https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type](Conflict-free replicated data type)
+- [Conflict-free replicated data type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type) on Wikipedia
 - [A Look at Conflict-Free Replicated Data Types (CRDT)](https://medium.com/@istanbul_techie/a-look-at-conflict-free-replicated-data-types-crdt-221a5f629e7e)
 - [Operational transform](https://en.wikipedia.org/wiki/Operational_transformation)
 - [Consistency levels for both read and writes](http://docs.datastax.com/en/cassandra/2.1/cassandra/dml/dml_config_consistency_c.html) in distributed databases like Cassandra
