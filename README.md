@@ -2,19 +2,19 @@
 A curated list of awesome distributed systems papers, libraries, software, middleware, books, etc.
 Feel free to add your links!
 
-Table of Contents:  
-[Consensus protocols](#consensus-protocols)  
-[Queues](#queues)  
-[Distributed databases](#distributed-databases)  
-[NoSQL](#nosql)  
-[Conflict-free replicated data type](#conflict-free-replicated-data-type)  
-[Distributed filesystems](#distributed-filesystems)  
-[Classes](#classes)  
-[Books](#books)  
-[Interviews](#interviews)  
-[Links & articles](#links-and-articles)  
-[Blogs](#blogs)  
-[Videos](#videos)  
+## Table of Contents:  
+ * [Consensus protocols](#consensus-protocols)  
+ * [Queues](#queues)  
+ * [Distributed databases](#distributed-databases)  
+ * [NoSQL](#nosql)  
+ * [Conflict-free replicated data type](#conflict-free-replicated-data-type)  
+ * [Distributed filesystems](#distributed-filesystems)  
+ * [Classes](#classes)  
+ * [Books](#books)  
+ * [Interviews](#interviews)  
+ * [Links & articles](#links-and-articles)  
+ * [Blogs](#blogs)  
+ * [Videos](#videos)  
 
 ### Consensus protocols:
 - [Paxos](https://en.wikipedia.org/wiki/Paxos_%28computer_science%29):
