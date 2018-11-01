@@ -71,7 +71,7 @@ Feel free to add your links!
 
 ## Books
  - [Distributed Systems](https://books.distributed-systems.net/)(2017): [Free]  Maarten van Steen, Andrew Tanenbaum. 
- 
+ - [Designing Distributed Systems](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647/)(2018): Brendan Burns. Cofounder of Kubernetes, illustrates some common pattern for distributed systems.
 ## Interviews
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [system-design-interview](https://github.com/checkcheckzz/system-design-interview)
