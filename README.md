@@ -46,6 +46,7 @@ Feel free to add your links!
 ### NoSQL
 - [Couchbase](https://www.couchbase.com)
 - [MongoDB](https://www.mongodb.com)
+- [RavenDB](https://ravendb.net)
 
 ### Conflict-free replicated data type
 - [Conflict-free replicated data type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type) on Wikipedia
