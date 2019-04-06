@@ -95,3 +95,4 @@ Feel free to add your links!
 ## Videos:
 - [Inside Azure Datacenter Architecture with Mark Russinovich : Build 2018](https://www.youtube.com/watch?v=t3Vo37V9oU8)
 - [Scaling Instagram Infrastructure](https://www.youtube.com/watch?v=hnpzNAPiC0E)
+- [How Modern SQL Databases Come up with Algorithms that You Would Have Never Dreamed Of](https://www.youtube.com/watch?v=wTPGW1PNy_Y)
